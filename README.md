@@ -2,6 +2,8 @@
 
 An experimental cryptocurrency wallet project built to validate and showcase modern Web3 technologies. Features multi-chain support and real-time balance tracking.
 
+![ezgif-73d7e63d6fc928](https://github.com/user-attachments/assets/aa17ee02-5a1d-4b4c-b2eb-ad2f38bd49f6)
+
 ## ✨ Features
 
 ### 🔗 Multi-Chain Support
